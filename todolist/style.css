@@ -1,0 +1,10 @@
+body {
+	background-image: url('todo.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+a:hover {
+
+	text-decoration: none;
+}

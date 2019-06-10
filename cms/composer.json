@@ -1,0 +1,16 @@
+{
+    "name": "kirco/cms",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Kirco Sarkovski",
+            "email": "kircoosarkovski@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^3.4",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
